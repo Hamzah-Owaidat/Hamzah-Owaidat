@@ -49,7 +49,7 @@
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
-<p style="background-color: black;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzah-owaidat&show_icons=true&locale=en&layout=compact" alt="hamzah-owaidat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzah-owaidat&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hamzah-owaidat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzah-owaidat&show_icons=true&locale=en" alt="hamzah-owaidat" /></p>
 
