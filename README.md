@@ -8,8 +8,11 @@
 
 - 📫 How to reach me **hamzahowaidat2003@gmail.com**
 
-- lebify tiktok account
+- Lebify tiktok account
 **https://www.tiktok.com/@lebify?_t=8olTpbJWMK8&_r=1**
+
+- Lebify whatsapp group
+**https://chat.whatsapp.com/BdlkvhN8M7oBV2gxrZ4aKN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
