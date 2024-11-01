@@ -61,6 +61,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzah-owaidat&theme=vision-friendly-dark" alt="hamzah-owaidat" /></p>
 
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/8e3bbfaa2aedf288c3fddd98de1b7e515733a0a2/assets/github-snake.svg" alt="snake"/>
-</p>
+</p> -->
