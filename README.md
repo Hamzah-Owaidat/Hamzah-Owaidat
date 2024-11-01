@@ -29,9 +29,9 @@
 
 ### Best frameworks and main libraries:
 
-| Laravel | React | Bootstrap | Tailwind | Express | Mongoose |
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/>
+| Laravel | React | Bootstrap | Tailwind | Express | Mongoose | JavaFX |
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JavaFX" alt="JavaFX" width="55" height="55"/>
 
 
 
@@ -39,7 +39,7 @@
 
 | MySQL | MongoDB |
 |----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>
 
   
 ### Environments, Testing, Other:
@@ -53,7 +53,7 @@
 
 | Linux | Kali |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|<img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzah-owaidat&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hamzah-owaidat" /></p>
 
