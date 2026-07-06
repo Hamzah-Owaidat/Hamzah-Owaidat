@@ -1,64 +1,184 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="" srcset="" width="100%" height="400">
-<h1 align="center">Hi 👋, I'm Hamzah Owaidat</h1>
-<h3 align="center">A passionate full-stack developer from Lebanon</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzah-owaidat&label=Profile%20views&color=0e75b6&style=flat" alt="hamzah-owaidat" /> </p>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/gray-banner-shadow.png" width="0" height="0" />
 
-- 🌱 I’m currently learning **Laravel**
+<!-- Typing animation header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2ED3B7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hamzah+Owaidat;Full-Stack+MERN+%2F+Next.js+Developer;Building+GymHub%2C+SportsHub+%26+Rezara;Turning+ideas+into+pixel-perfect+products" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **hamzahowaidat2003@gmail.com**
+</div>
 
-- Lebify tiktok account
-**https://www.tiktok.com/@lebify?_t=8olTpbJWMK8&_r=1**
+<br/>
 
-- Lebify whatsapp group
-**https://chat.whatsapp.com/BdlkvhN8M7oBV2gxrZ4aKN**
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-2ED3B7?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Islamic%20University%20of%20Lebanon-Student-2ED3B7?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Lebanon-2ED3B7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hamzah owaidat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzah owaidat" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzah_owaidat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzah_owaidat" height="30" width="40" /></a>
-</p>
+<br/>
 
-### Languages:
-| C | HTML | CSS | JavaScript | Php | Java | 
-|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" title="C"  alt="C" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|
+## 👋 About Me
 
-  
+I'm a full-stack developer studying software engineering at the **Islamic University of Lebanon**, focused on the **MERN / Next.js stack**. I like taking a project from a blank repo to something a real user could actually click through — auth, dashboards, real-time features, and all.
 
-### Best frameworks and main libraries:
+Most of what I build falls into two lanes:
 
-| Laravel | React | Bootstrap | Tailwind | Express | Mongoose | JavaFX | NextJs |
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind"  alt="Tailwind" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JavaFX" alt="JavaFX" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="55" height="55"/>
+- **Full-stack platforms** — multi-role systems (gym members vs. coaches vs. admins, clients vs. service providers) with real-time chat/notifications, JWT auth, and admin dashboards.
+- **Pixel-perfect frontend** — translating a design mockup into a UI that matches it exactly, not just "close enough."
 
+🔭 Currently building **[Rezara](https://github.com/Hamzah-Owaidat/Rezara)**, a marketing agency site, and **[GymHub](https://github.com/Hamzah-Owaidat/GymHub)**, a full gym-management platform with an AI fitness assistant.
 
+🌱 Sharpening backend architecture — real-time systems (Pusher), transactional email (Nodemailer), and role-based access control.
 
-### My tools for Data Manipulation:
+💬 Ask me about Next.js, Express/MongoDB APIs, or turning a Figma-style mockup into working code.
 
-| MySQL | MongoDB |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>
+📫 Reach me at **hamzahowaidat2003@gmail.com**
 
-  
-### Environments, Testing, Other:
+---
 
-| nodejs | Git | Postman |
-|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Git" alt="Git" width="55" height="55"/>|
+## 🛠️ Tech Stack
 
+<div align="center">
 
-### OS:
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,php,java,html,css&theme=dark" />
 
-| Linux | Kali |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|<img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|
+<br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzah-owaidat&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="hamzah-owaidat" /></p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzah-owaidat&show_icons=true&locale=en&theme=vision-friendly-dark" alt="hamzah-owaidat" /></p>
+<br/><br/>
 
-<!-- <p align="center">
- <img width="1000" src="https://raw.githubusercontent.com/sammorozov/sammorozov/8e3bbfaa2aedf288c3fddd98de1b7e515733a0a2/assets/github-snake.svg" alt="snake"/>
-</p> -->
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+<br/><br/>
+
+**Realtime, Auth & Services**
+<br/>
+<img src="https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" />
+
+</div>
+
+> **Note on scope:** Java (OOP coursework: `Registration-JAVA`, `Car_Registration-JAVA`, `HMO`) reflects academic training rather than active production work — included for completeness, not as a current focus area.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hamzah-Owaidat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzah-Owaidat&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzah-Owaidat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah-Owaidat&theme=tokyo-night&hide_border=true" width="90%" />
+
+</div>
+
+<!--START_SECTION:waka-->
+<!-- Optional: WakaTime weekly coding activity — see Phase 9 setup below -->
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Hamzah-Owaidat/Hamzah-Owaidat/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ [GymHub](https://github.com/Hamzah-Owaidat/GymHub)
+Full-stack gym management platform with five distinct roles (Guest, Member, Coach, Gym Owner, System Admin), an AI-powered fitness assistant, QR-code check-ins, real-time notifications via Pusher, and transactional email via Nodemailer.
+`Next.js` `TypeScript` `Node.js/Express` `MongoDB` `Pusher` `Nodemailer`
+
+### 🏟️ [SportsHub](https://github.com/Hamzah-Owaidat/SportsHub)
+Sports facility platform for booking stadiums, running tournaments, and browsing football academies, with an admin dashboard, calendar-based booking (FullCalendar), and data visualization (ApexCharts).
+`Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `Node.js/Express` `MongoDB` `JWT` `Nodemailer`
+
+### 💼 [SkillBox-Web](https://github.com/Hamzah-Owaidat/SkillBox-Web)
+Digital marketing services marketplace connecting clients with freelance professionals — custom PHP MVC framework (no framework dependency), JWT + session auth, RBAC, real-time chat/notifications via Pusher, and an AI chatbot (Hugging Face) for service recommendations.
+`PHP` `Custom MVC` `MySQL` `Pusher` `JWT` `PHPMailer` `Hugging Face API`
+
+### 🎨 [Rezara](https://github.com/Hamzah-Owaidat/Rezara)
+Single-page marketing agency website built to match a design mockup pixel-for-pixel — Hero, About, Services, Contact, and Consultation sections plus a separate Admin Login flow.
+`MERN` `TypeScript` `Pixel-perfect UI`
+
+### 📱 [SkillBox](https://github.com/Hamzah-Owaidat/SkillBox)
+Mobile companion app to SkillBox-Web, extending the services marketplace to a native mobile experience.
+`Dart` `Flutter`
+
+---
+
+## 🎯 Current Focus
+
+- Shipping **Rezara** with high-fidelity, pixel-accurate frontend implementation
+- Expanding **GymHub**'s AI fitness assistant and real-time notification system
+- Deepening backend architecture: role-based access control, real-time systems, and clean API design
+
+## 📚 Currently Learning
+
+- Advanced Next.js patterns (Server Components, caching strategies)
+- System design for multi-role, real-time platforms
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hamzah-owaidat" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" />
+</a>
+&nbsp;
+<a href="https://instagram.com/hamzah_owaidat" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" />
+</a>
+&nbsp;
+<a href="mailto:hamzahowaidat2003@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32" />
+</a>
+
+</div>
+
+<div align="center">
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hamzah-Owaidat&color=2ED3B7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<sub>Thanks for stopping by — feel free to explore my repos and reach out!</sub>
+
+</div>
