@@ -1,8 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="" srcset="" width="100%" height="400">
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/gray-banner-shadow.png" width="0" height="0" />
-
 <!-- Typing animation header -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2ED3B7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hamzah+Owaidat;Full-Stack+MERN+%2F+Next.js+Developer;Building+GymHub%2C+SportsHub+%26+Rezara;Turning+ideas+into+pixel-perfect+products" alt="Typing SVG" />
@@ -100,23 +98,21 @@ Most of what I build falls into two lanes:
 
 <div align="center">
 
-### 📈 Contribution Graph
+### 🏙️ 3D Contribution Calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzah-Owaidat&theme=tokyo-night&hide_border=true" width="90%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamzah-Owaidat/Hamzah-Owaidat/output-3d-contrib/night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamzah-Owaidat/Hamzah-Owaidat/output-3d-contrib/day.svg" />
+  <img alt="3D GitHub contribution calendar" src="https://raw.githubusercontent.com/Hamzah-Owaidat/Hamzah-Owaidat/output-3d-contrib/night.svg" width="90%" />
+</picture>
+
+<sub>Isometric contribution calendar, generated daily — see Action setup below</sub>
 
 </div>
 
 <!--START_SECTION:waka-->
 <!-- Optional: WakaTime weekly coding activity — see Phase 9 setup below -->
 <!--END_SECTION:waka-->
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Hamzah-Owaidat/Hamzah-Owaidat/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
 
 ---
 
